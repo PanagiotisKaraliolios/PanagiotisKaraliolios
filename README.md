@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PanagiotisKaraliolios)](https://github.com/PanagiotisKaraliolios/github-readme-stats)
 
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PanagiotisKaraliolios&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&show_owner=true)](https://github.com/PanagiotisKaraliolios/github-readme-stats)
@@ -23,9 +22,9 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PanagiotisKaraliolios&theme=tokyonight&layout=compact)](https://github.com/PanagiotisKaraliolios/github-readme-stats)
 -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=PanagiotisKaraliolios&title_color=52F9EB&text_color=e4e4e4&icon_color=42DBCA&bg_color=0,530890,dd4b69&count_private=true&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" />
 </a>
-<a href="https://github.com/PanagiotisKaraliolios/github-readme-stats">
+<a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PanagiotisKaraliolios&title_color=52F9EB&text_color=e4e4e4&bg_color=0,dd4b69,530890&layout=compact&hide_border=true" />
 </a>
