@@ -5,8 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=panagiotiskaraliolios&label=Profile%20views&color=0e75b6&style=flat" alt="panagiotiskaraliolios" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=panagiotiskaraliolios" alt="panagiotiskaraliolios" /></a> </p>
-
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=panagiotiskaraliolios" alt="panagiotiskaraliolios" /></a> </p>
+-->
 <p align="left"> <a href="https://twitter.com/panoskaralio" target="blank"><img src="https://img.shields.io/twitter/follow/panoskaralio?logo=twitter&style=for-the-badge" alt="panoskaralio" /></a> </p>
 
 - 📫 How to reach me **karaliolios.panagiotis@gmail.com**
