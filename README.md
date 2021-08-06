@@ -9,6 +9,8 @@
 - 📫 How to reach me **karaliolios.panagiotis@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+if(icons.shown == false)
+  disable_AdBlock();
 <p align="left">
 <a href="https://twitter.com/panoskaralio" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="panoskaralio" height="30" width="40" /></a>
@@ -25,9 +27,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PanagiotisKaraliolios&theme=cobalt&hide_border=true&background=0D1117&stroke=52F8EB&ring=52F8EB&currStreakNum=E4E4E4&sideNums=52F8EB&fire=52F8EB&currStreakLabel=E4E4E4&sideLabels=E4E4E4&dates=52F8EB&border=DD2727)](https://git.io/streak-stats)
 
-<a href="https://git.io/streak-stats">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com? user=PanagiotisKaraliolios&theme=cobalt&hide_border=true&background=0D1117&stroke=52F8EB&ring=52F8EB&currStreakNum=E4E4E4&sideNums=52F8EB&fire=52F8EB&currStreakLabel=E4E4E4&sideLabels=E4E4E4&dates=52F8EB&border=DD2727" alt="panagiotiskaraliolios"/>
-</a>
 <!--
 **PanagiotisKaraliolios/PanagiotisKaraliolios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
