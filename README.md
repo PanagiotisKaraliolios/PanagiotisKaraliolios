@@ -12,7 +12,7 @@
 <p>
 <a href="https://twitter.com/panoskaralio" target="blank">
   twitter
-  <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="panoskaralio" height="30" width="40" /></a>
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="panoskaralio" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/panagiotis-karaliolios" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="panagiotis-karaliolios" height="30" width="40" /></a>
 <a href="https://fb.com/panagiotis.karaliolios" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="panagiotis.karaliolios" height="30" width="40" /></a>
 <a href="https://instagram.com/panagiotis.karaliolios" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="panagiotis.karaliolios" height="30" width="40" /></a>
@@ -26,7 +26,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PanagiotisKaraliolios&theme=cobalt&hide_border=true&background=0D1117&stroke=52F8EB&ring=52F8EB&currStreakNum=E4E4E4&sideNums=52F8EB&fire=52F8EB&currStreakLabel=E4E4E4&sideLabels=E4E4E4&dates=52F8EB&border=DD2727)](https://git.io/streak-stats)
 <!--
 **PanagiotisKaraliolios/PanagiotisKaraliolios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
