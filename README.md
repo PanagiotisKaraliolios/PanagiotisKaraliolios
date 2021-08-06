@@ -8,11 +8,14 @@
 
 - 📫 How to reach me **karaliolios.panagiotis@gmail.com**
 
-if(icons.shown == false)
-  disable_AdBlock();
-  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+
+```
+if (icons.shown == false)
+    disable_AdBlock();
+```
+
 <a href="https://twitter.com/panoskaralio" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="panoskaralio" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/panagiotis-karaliolios" target="blank">
