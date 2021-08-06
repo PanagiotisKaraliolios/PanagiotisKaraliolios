@@ -4,15 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=panagiotiskaraliolios&label=Profile%20views&color=0e75b6&style=flat" alt="panagiotiskaraliolios" /> </p>
 
-<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=panagiotiskaraliolios" alt="panagiotiskaraliolios" /></a> </p>
--->
 <p align="left"> <a href="https://twitter.com/panoskaralio" target="blank"><img src="https://img.shields.io/twitter/follow/panoskaralio?logo=twitter&style=for-the-badge" alt="panoskaralio" /></a> </p>
 
 - 📫 How to reach me **karaliolios.panagiotis@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 
-<a href="https://twitter.com/panoskaralio" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="panoskaralio" height="30" width="40" /></a>
+<a href="https://twitter.com/panoskaralio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="panoskaralio"/></a>
 <a href="https://linkedin.com/in/panagiotis-karaliolios" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="panagiotis-karaliolios" height="30" width="40" /></a>
 <a href="https://fb.com/panagiotis.karaliolios" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="panagiotis.karaliolios" height="30" width="40" /></a>
 <a href="https://instagram.com/panagiotis.karaliolios" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="panagiotis.karaliolios" height="30" width="40" /></a>
