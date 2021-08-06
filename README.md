@@ -13,7 +13,7 @@
 
 ```
 if (icons.shown == false)
-    disable_AdBlock();
+    AdBlock.disable();
 ```
 
 <a href="https://twitter.com/panoskaralio" target="_blank">
