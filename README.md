@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=panagiotiskaraliolios&label=Profile%20views&color=0e75b6&style=flat" alt="panagiotiskaraliolios" /> </p>
 
-<p align="left"> <a href="https://twitter.com/panoskaralio" target="blank"><img src="https://img.shields.io/twitter/follow/panoskaralio?logo=twitter&style=for-the-badge" alt="panoskaralio" /></a> </p>
+<p align="left"> <a href="https://twitter.com/panoskaralio" target="_blank"><img src="https://img.shields.io/twitter/follow/panoskaralio?logo=twitter&style=for-the-badge" alt="panoskaralio" /></a> </p>
 
 - 📫 How to reach me **karaliolios.panagiotis@gmail.com**
 
@@ -16,13 +16,13 @@ if (icons.shown == false)
     disable_AdBlock();
 ```
 
-<a href="https://twitter.com/panoskaralio" target="blank">
+<a href="https://twitter.com/panoskaralio" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="panoskaralio" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/panagiotis-karaliolios" target="blank">
+<a href="https://linkedin.com/in/panagiotis-karaliolios" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="panagiotis-karaliolios" height="30" width="40" /></a>
-<a href="https://fb.com/panagiotis.karaliolios" target="blank">
+<a href="https://fb.com/panagiotis.karaliolios" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="panagiotis.karaliolios" height="30" width="40" /></a>
-<a href="https://instagram.com/panagiotis.karaliolios" target="blank">
+<a href="https://instagram.com/panagiotis.karaliolios" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="panagiotis.karaliolios" height="30" width="40" /></a>
 </p>
 
@@ -53,9 +53,9 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PanagiotisKaraliolios&theme=tokyonight&layout=compact)](https://github.com/PanagiotisKaraliolios/github-readme-stats)
 -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats" style="text-decoration:none;">
+<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" style="text-decoration:none;">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=PanagiotisKaraliolios&title_color=52F9EB&text_color=e4e4e4&icon_color=42DBCA&bg_color=0,530890,dd4b69&count_private=true&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="panagiotiskaraliolios"/>
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats" style="text-decoration:none;">
+<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" style="text-decoration:none;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PanagiotisKaraliolios&title_color=52F9EB&text_color=e4e4e4&bg_color=0,dd4b69,530890&layout=compact&hide_border=true" alt="panagiotiskaraliolios"/>
 </a>
