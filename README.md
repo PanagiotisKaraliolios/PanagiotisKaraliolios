@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/PanagiotisKaraliolios/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PanagiotisKaraliolios&bg_color=172,rgba(2,0,36,1),rgba(9,9,121,1),rgba(0,212,255,1)&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&show_owner=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PanagiotisKaraliolios&bg_color=172,#020024,#090979,#00d4ff&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&show_owner=true" />
 </a>
 <a href="https://github.com/PanagiotisKaraliolios/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PanagiotisKaraliolios&theme=tokyonight&layout=compact" />
