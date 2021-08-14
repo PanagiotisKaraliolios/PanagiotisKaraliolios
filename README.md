@@ -76,7 +76,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=PanagiotisKaraliolios&title_color=52F9EB&text_color=e4e4e4&icon_color=42DBCA&bg_color=0,530890,dd4b69&count_private=true&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="panagiotiskaraliolios"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" style="text-decoration:none;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PanagiotisKaraliolios&title_color=52F9EB&text_color=e4e4e4&bg_color=0,dd4b69,530890&layout=compact&hide_border=true&langs_count=10" alt="panagiotiskaraliolios"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PanagiotisKaraliolios&title_color=52F9EB&text_color=e4e4e4&bg_color=0,dd4b69,530890&layout=compact&hide_border=true&langs_count=10&cache_seconds=1800" alt="panagiotiskaraliolios"/>
 </a>
 
 <h2> Some Programming Humor for you <img align ='center' src='https://media.giphy.com/media/QWvra259h4LCvdJnxP/giphy.gif' width = '32px'>
