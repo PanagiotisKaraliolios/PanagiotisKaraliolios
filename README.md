@@ -19,7 +19,7 @@
 
 - 👯 I’m looking to collaborate on Projects 
 
-- 💬 Talk to me about Python, Java, Freelancing Opportunites, Open Source 
+- 💬 Talk to me about Python, Java, Web Apps, Freelancing Opportunites, Open Source 
 
 - 📫 How to reach me **karaliolios.panagiotis@gmail.com**
 
