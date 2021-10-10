@@ -27,7 +27,7 @@
 <p align="left">
 
 ```Java
-if (icons.shown == false)
+if (icons.shown() == false)
     AdBlock.disable();
 ```
     
