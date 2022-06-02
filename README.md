@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi <img align="center" src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>, I'm Panos</h1>
+<h1 align="center">Hi <img align="center" src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "50px">, I'm Panos</h1>
 <h3 align="center">A passionate developer/general I.T guy from Greece</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=panagiotiskaraliolios&label=Profile%20views&color=0e75b6&style=flat" alt="panagiotiskaraliolios" /> </p>
