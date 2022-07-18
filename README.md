@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi <img align="center" src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px" height="50px">, I'm Panos</h1>
-<h3 align="center">A passionate developer/general I.T guy from Greece</h3>
+<h3 align="center">A passionate developer / I.T guy from Greece</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=panagiotiskaraliolios&label=Profile%20views&color=0e75b6&style=flat" alt="panagiotiskaraliolios" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=panagiotiskaraliolios&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="panagiotiskaraliolios" /> </p>
 
 <!--
 <p align="left"> <a href="https://twitter.com/panoskaralio" target="_blank"><img src="https://img.shields.io/twitter/follow/panoskaralio?logo=twitter&style=for-the-badge" alt="panoskaralio" /></a> </p>
@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on Personal Projects
 
-- 🌱 I’m currently learning Software Engineering, Penetration Testing, Front End Development
+- 🌱 I’m learning Software Engineering, Penetration Testing, Front End Development
 
 - 👯 I’m looking to collaborate on Projects 
 
@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **karaliolios.panagiotis@gmail.com**
 
-<h2 align="left">Connect with me: <img align="center" src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height="50px"> </h2>
+<h2 align="left">Connect with me: <img align="center" src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="" height="50px"> </h2>
 <p align="left">
 
 ```Java
