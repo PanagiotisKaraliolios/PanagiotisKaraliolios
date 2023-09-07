@@ -1,8 +1,16 @@
 
 <h1 align="center">Hi <img align="center" src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px" height="50px">, I'm Panos</h1>
-<h3 align="center">A passionate developer / I.T guy from Greece</h3>
+<h3 align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F1F7&center=true&width=435&lines=Full+stack+web+and+mobile+developer;Experienced+UI%2FUX+designer;Always+learning+new+things" alt="Typing SVG" />
+    </a>
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=panagiotiskaraliolios&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="panagiotiskaraliolios" /> </p>
+
+<p align="right"> 
+    <img align="left" src="https://komarev.com/ghpvc/?username=panagiotiskaraliolios&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="panagiotiskaraliolios" /> 
+    <img href="https://codetime.dev" alt="Custom badge" src="https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D17212%26project%3D%26in%3D31536000000">
+</p>
 
 <!--
 <p align="left"> <a href="https://twitter.com/panoskaralio" target="_blank"><img src="https://img.shields.io/twitter/follow/panoskaralio?logo=twitter&style=for-the-badge" alt="panoskaralio" /></a> </p>
