@@ -92,6 +92,8 @@ Here are some ideas to get you started:
 
 <img src="https://readme-jokes.vercel.app/api?theme=react" alt="Jokes Card" />
 
+![Metrics](/github-metrics.svg)
+
 <div align="center">
     <img width="500px" height="500px" src="https://media.giphy.com/media/JR7iS0j2YwfW9mopu3/giphy.gif">
 </div>
