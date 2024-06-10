@@ -75,24 +75,28 @@ Here are some ideas to get you started:
 
 
 <!--
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PanagiotisKaraliolios&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&show_owner=true)](https://github.com/PanagiotisKaraliolios/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PanagiotisKaraliolios&theme=tokyonight&layout=compact)](https://github.com/PanagiotisKaraliolios/github-readme-stats)
--->
-
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" style="text-decoration:none;">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=PanagiotisKaraliolios&title_color=52F9EB&text_color=e4e4e4&icon_color=42DBCA&bg_color=0,530890,dd4b69&count_private=true&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="panagiotiskaraliolios"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" style="text-decoration:none;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PanagiotisKaraliolios&title_color=52F9EB&text_color=e4e4e4&bg_color=0,dd4b69,530890&layout=compact&hide_border=true&langs_count=10&cache_seconds=2000" alt="panagiotiskaraliolios"/>
 </a>
+![Metrics](/github-metrics.svg)
+-->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PanagiotisKaraliolios&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&show_owner=true)](https://github.com/PanagiotisKaraliolios/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PanagiotisKaraliolios&theme=tokyonight&layout=compact)](https://github.com/PanagiotisKaraliolios/github-readme-stats)
+
+[![Wakapie stats](https://github-readme-stats.vercel.app/api/wakatime?username=karalioliospanagiotis&api_domain=wakapi.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&layout=compact)](https://github.com/PanagiotisKaraliolios/github-readme-stats)
+
+[![Wakapie coding time](https://img.shields.io/endpoint?style=for-the-badge&color=blue&url=https://wakapi.dev/api/compat/shields/v1/karalioliospanagiotis/interval:30_days&label=last%2030d)](https://github.com/PanagiotisKaraliolios/github-readme-stats)
+
 
 <h2> Some Programming Humor for you <img align ='center' src='https://media.giphy.com/media/QWvra259h4LCvdJnxP/giphy.gif' width="50px" height="50px">
 </h2>
 
 <img src="https://readme-jokes.vercel.app/api?theme=react" alt="Jokes Card" />
 
-![Metrics](/github-metrics.svg)
 
 <div align="center">
     <img width="500px" height="500px" src="https://media.giphy.com/media/JR7iS0j2YwfW9mopu3/giphy.gif">
