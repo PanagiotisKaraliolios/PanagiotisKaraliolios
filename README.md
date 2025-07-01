@@ -82,9 +82,9 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PanagiotisKaraliolios&theme=tokyonight&layout=compact)](https://github.com/PanagiotisKaraliolios/github-readme-stats)
 
-[![Wakapie stats](https://github-readme-stats.vercel.app/api/wakatime?username=karalioliospanagiotis&api_domain=wakapi.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&layout=compact)](https://github.com/PanagiotisKaraliolios/github-readme-stats)
+[![Wakapie stats](https://github-readme-stats.vercel.app/api/wakatime?username=karalioliospanagiotis&api_domain=wakapi.karaliolios.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&layout=compact)](https://github.com/PanagiotisKaraliolios/github-readme-stats)
 
-[![Wakapie coding time](https://img.shields.io/endpoint?style=for-the-badge&color=blue&url=https://wakapi.dev/api/compat/shields/v1/karalioliospanagiotis/interval:30_days&label=last%2030d)](https://github.com/PanagiotisKaraliolios/github-readme-stats)
+[![Wakapie coding time](https://img.shields.io/endpoint?style=for-the-badge&color=blue&url=https://wakapi.karaliolios.dev/api/compat/shields/v1/karalioliospanagiotis/interval:30_days&label=last%2030d)](https://github.com/PanagiotisKaraliolios/github-readme-stats)
 
 
 <h2> Some Programming Humor for you <img align ='center' src='https://media.giphy.com/media/QWvra259h4LCvdJnxP/giphy.gif' width="50px" height="50px">
