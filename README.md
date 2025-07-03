@@ -51,7 +51,7 @@
 
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width="50px" height="50px"> </h2>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PanagiotisKaraliolios&theme=cobalt&hide_border=true&background=0D1117&stroke=52F8EB&ring=52F8EB&currStreakNum=E4E4E4&sideNums=52F8EB&fire=52F8EB&currStreakLabel=E4E4E4&sideLabels=E4E4E4&dates=52F8EB&border=DD2727)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=PanagiotisKaraliolios&theme=cobalt&hide_border=true&background=0D1117&stroke=52F8EB&ring=52F8EB&currStreakNum=E4E4E4&sideNums=52F8EB&fire=52F8EB&currStreakLabel=E4E4E4&sideLabels=E4E4E4&dates=52F8EB&border=DD2727)](https://git.io/streak-stats)
 
 <!--
 **PanagiotisKaraliolios/PanagiotisKaraliolios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
