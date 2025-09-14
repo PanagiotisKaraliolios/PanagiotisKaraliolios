@@ -8,8 +8,8 @@
 
 
 <p align="right"> 
-    <img align="left" src="https://komarev.com/ghpvc/?username=panagiotiskaraliolios&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="panagiotiskaraliolios" /> 
-    <img href="https://codetime.dev" alt="Custom badge" src="https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D17212%26project%3D%26in%3D31536000000">
+    <img align="right" src="https://komarev.com/ghpvc/?username=panagiotiskaraliolios&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="panagiotiskaraliolios" /> 
+<!--     <img href="https://codetime.dev" alt="Custom badge" src="https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D17212%26project%3D%26in%3D31536000000"> -->
 </p>
 
 <!--
